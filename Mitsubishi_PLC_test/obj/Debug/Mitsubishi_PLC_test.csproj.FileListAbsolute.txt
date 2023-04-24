@@ -1,0 +1,13 @@
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\bin\Debug\Mitsubishi_PLC_test.exe.config
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\bin\Debug\Mitsubishi_PLC_test.exe
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\bin\Debug\Mitsubishi_PLC_test.pdb
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Mitsubishi_PLC_test.csproj.AssemblyReference.cache
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Mitsubishi_PLC_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Interop.ACTMULTILib.dll
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Mitsubishi_PLC_test.csproj.ResolveComReference.cache
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Mitsubishi_PLC_test.Form1.resources
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Mitsubishi_PLC_test.Properties.Resources.resources
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Mitsubishi_PLC_test.csproj.GenerateResource.cache
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Mitsubishi_PLC_test.csproj.CoreCompileInputs.cache
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Mitsubishi_PLC_test.exe
+C:\Users\Koreasoft\Desktop\project\Mitsubishi_PLC_test\Mitsubishi_PLC_test\obj\Debug\Mitsubishi_PLC_test.pdb
